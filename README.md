@@ -53,4 +53,5 @@ If you want to try out the application, you might have to satisfy some requireme
 1. Open a command prompt inside the cloned repository folder or just open a command prompt and navigate to the cloned directory.
 1. Execute this command: `python asl_alphabet_application.py`.
 1. An application opens up after a few minutes.
+2. You will need to install the Kaggle-API to download your own dataset. 
 
